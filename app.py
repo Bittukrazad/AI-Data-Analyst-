@@ -214,7 +214,7 @@ Provide a clear analysis or recommendation. Be specific and actionable.""",
 # ============= MAIN APP =============
 
 # Header
-st.markdown('<p class="main-header">📊 AI Data Analyst Pro</p>', unsafe_allow_html=True)
+st.markdown('<p class="main-header">📈AI Data Analyst</p>', unsafe_allow_html=True)
 st.markdown("**Upload data, run built-in analyses, or use custom queries with Ollama**")
 
 # Sidebar
@@ -638,3 +638,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
