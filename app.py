@@ -12,7 +12,7 @@ import io
 # Page configuration
 st.set_page_config(
     page_title="AI Data Analyst",
-    page_icon="📊",
+    page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -638,4 +638,5 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
 
