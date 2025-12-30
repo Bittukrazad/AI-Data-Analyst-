@@ -11,7 +11,7 @@ import io
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Data Analyst Pro",
+    page_title="AI Data Analyst",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -633,7 +633,8 @@ else:
 st.divider()
 st.markdown("""
 <div style="text-align: center; color: #666; padding: 2rem;">
-    <p><strong>AI Data Analyst Pro</strong> | Built with Streamlit & Ollama</p>
+    <p><strong>AI Data Analyst</strong> | Built with Streamlit & Ollama</p>
     <p>Built-in analyses are free • Custom queries require Ollama</p>
 </div>
+
 """, unsafe_allow_html=True)
